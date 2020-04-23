@@ -16,20 +16,20 @@ you want to deal with:
    lines. For instance if *bob* is the character of the novel, you
    want to list all the piece of text where *bob* appears.
 
-3. You want a **uniq traduction** for all your text. For instance,
+3. You want a **uniq translation** for all your text. For instance,
    *bob* and *alice* are two character of a text and you start
    traducing parts of the text where *bob* appears. Next day you start
    traducing parts of the text where *alice* appears, and you have one
    paragraph where *bob* appears too. In that case, If you have
-   already traduced piece of the paragraph while working on *bob*
-   character, you want to be **notice** about the existing traduction,
+   already translated piece of the paragraph while working on *bob*
+   character, you want to be **notice** about the existing translation,
    and directly working on this one. You don't want duplication of the
-   traduction.
+   translation.
 
 # Motivation
 
 1. Talk with Marc.
-2. Think on text editing is amusing and challenging. Think about that:
+2. Thinking about text editing is amusing and challenging. Think about that:
    working with text is a common task for a long time and we still
    have not a standard and clean way to do it.
 

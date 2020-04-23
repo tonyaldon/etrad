@@ -50,7 +50,7 @@ be modified adding package written in `emacs lisp`.
 
 # Videos
 
-1. Using swiper & rgrep into emacs
+1. Using swiper & rgrep into emacs: see on [youtube](https://youtu.be/EOAJnIDqWH0).
 
 # License
 Project under MIT license

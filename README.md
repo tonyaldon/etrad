@@ -35,9 +35,10 @@ you want to deal with:
 
 # Existing solutions
 
-* [https://www.oxygenxml.com/](oxygenxml)
-* Inside `emacs`: see `swiper`, `rgrep` and `etags`.
-* Inside `linux`: see `grep`.
+* [oxygenxml](https://www.oxygenxml.com/)
+* Inside [emacs](https://www.gnu.org/software/emacs/): 
+  see [swiper](https://github.com/abo-abo/swiper), `rgrep` and `etags`.
+* Inside `linux`: see [grep](https://fr.wikipedia.org/wiki/Grep).
 
 # Ideas/Notes
 
